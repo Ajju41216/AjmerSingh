@@ -1,54 +1,55 @@
-Hi 👋 I'm Ajmer Singh
+# Hi 👋 I'm Ajmer Singh
 
-Cloud & Platform Engineer | Azure | Terraform | AKS | DevSecOps
+### Cloud & Platform Engineer | Azure | Terraform | Kubernetes | DevSecOps
 
-Building secure, automated and production-ready cloud platforms.
+Building **secure, automated and scalable cloud platforms** with a focus on Platform Engineering, Cloud Migration and DevSecOps.
 
-ABOUT ME
+## 👨‍💻 About Me
 
-☁️ Azure & Hybrid Cloud
-🏗️ Terraform / Infrastructure as Code
-☸️ Kubernetes / AKS
-🔐 DevSecOps & Cloud Security
-🚀 Azure DevOps / GitHub Actions
-📊 Azure Monitor / Prometheus / Grafana
-🔄 GitOps / Argo CD
+- ☁️ **Azure & Hybrid Cloud** — Cloud infrastructure, networking and hybrid environments
+- ⚙️ **Platform Engineering** — Automated, reusable and secure cloud platforms
+- 🔄 **Cloud Migration** — Infrastructure migration and modernisation to Azure
+- 🏗️ **Infrastructure as Code** — Terraform and reusable modules
+- ☸️ **Kubernetes / AKS** — Container platforms, networking and application deployment
+- 🚀 **CI/CD & GitOps** — Azure DevOps, GitHub Actions and Argo CD
+- 🔐 **DevSecOps** — Security scanning, RBAC, secrets and cloud security
+- 📊 **Observability** — Azure Monitor, Log Analytics, Prometheus and Grafana
 
-CURRENTLY BUILDING
+## 🛠️ Technology Stack
 
-🚀 AXION – Production AKS DevSecOps Platform
+**Cloud:** Azure | AWS | Hybrid Cloud  
+**IaC:** Terraform  
+**Containers:** Docker | Kubernetes | AKS | Helm  
+**CI/CD:** Azure DevOps | GitHub Actions  
+**GitOps:** Argo CD  
+**Security:** Defender for Cloud | Checkov | Trivy | SonarQube  
+**Monitoring:** Azure Monitor | Log Analytics | Prometheus | Grafana  
+**Scripting:** PowerShell | Python  
 
-Terraform → Azure → AKS → ACR → Kubernetes
-                         ↓
-              Microservices Platform
-                         ↓
-          PostgreSQL Private Endpoint
+## 🚀 Current Project
 
-DEVSECOPS TOOLCHAIN
+### AXION — AKS DevSecOps Platform
 
-Plan → Code → Scan → Build → Test → Deploy → Monitor
+Building an end-to-end platform covering:
 
-Azure | Terraform | Azure DevOps | GitHub Actions
-AKS | Kubernetes | Helm | Argo CD
-Docker | ACR
-Checkov | Trivy | SonarQube
-Defender for Cloud
-Prometheus | Grafana | Azure Monitor
+`Terraform → Azure → AKS → ACR → Kubernetes → Microservices → PostgreSQL`
 
-FEATURED PROJECTS
+with **CI/CD, private networking, security, monitoring and GitOps**.
 
-🏗️ Azure Landing Zone
-☸️ Axion AKS Platform
-🔐 Azure Terraform CI/CD
-🔄 Kubernetes GitOps
-🌐 Azure Private Endpoint Lab
-🚀 AKS SRE GitOps
+## 📌 Featured Areas
 
-CURRENT LEARNING
+- 🏗️ Azure Landing Zone & Hub-Spoke Architecture
+- ☸️ AKS & Kubernetes Platform Engineering
+- 🔄 Cloud Migration & Modernisation
+- 🔐 DevSecOps & Cloud Security
+- 🚀 Terraform CI/CD Automation
+- 🌐 Azure Private Networking
+- 🔄 Kubernetes GitOps
 
-• Production AKS architecture
-• Azure Landing Zones
-• Kubernetes security
-• GitOps
-• Observability
-• Agentic AI for Platform Engineering
+## 📚 Currently Exploring
+
+**Production AKS • Platform Engineering • Kubernetes Security • GitOps • SRE • Agentic AI for Platform Engineering**
+
+---
+
+⭐ **Automate. Secure. Scale.**

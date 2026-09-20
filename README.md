@@ -26,16 +26,8 @@ Building **secure, automated and scalable cloud platforms** with a focus on Plat
 **Monitoring:** Azure Monitor | Log Analytics | Prometheus | Grafana  
 **Scripting:** PowerShell | Python  
 
-## 🚀 Current Project
-
-### AXION — AKS DevSecOps Platform
-
-Building an end-to-end platform covering:
-
-`Terraform → Azure → AKS → ACR → Kubernetes → Microservices → PostgreSQL`
-
-with **CI/CD, private networking, security, monitoring and GitOps**.
-
+## Languages and Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=azure-devops&logoColor=white)
 ## 📌 Featured Areas
 
 - 🏗️ Azure Landing Zone & Hub-Spoke Architecture
